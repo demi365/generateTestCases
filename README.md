@@ -23,3 +23,4 @@ For the excel file: FieldStartRow, FieldEndRow must be specified.
 resources/steps.java should have the steps that are common which are used to guide the user to the fields location.
 
 Note : This just copy pastes the values and can be efficient only if a lot of fields are on the page, and have default functionality.
+resources/Test_MockUp_UI_Field_level_specs.xlsx file shows how a sample UI specs looks like for the program to work
